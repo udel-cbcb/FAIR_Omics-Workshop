@@ -1,3 +1,5 @@
+[Click here for a guide to Markdown format](https://www.markdownguide.org/cheat-sheet/)
+
 # Sequence ID Exercise
 
 ## The sequence
