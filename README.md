@@ -13,7 +13,7 @@ The FAIR Data Workshop held in April 2022 at UD was presented in the following o
 * [Welcome and Workshop Overview](Day_1/D1-Workshop_Overview.pdf)
 * **Activity:** Technology/Software orientation and test
 * **Lecture:** [Overview of FAIR data principles](Day_1/D1-FAIR_data_overview.pdf)
-* **Activity:** [Good/bad data practice discussion](Day_1/D1-* good_bad_data_practices_slides.pdf)
+* **Activity:** [Good/bad data practice discussion](Day_1/D1-good_bad_data_practices_slides.pdf)
 * **Tutorial:** [Web-based resources](Day_1/D1-Web_Resources_Tutorial.pdf)
 * **Assignment:** [Web-based bioinformatics exercise](Day_1/Web_Resources-Day1_Assignment.md)
 
